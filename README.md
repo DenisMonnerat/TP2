@@ -1,5 +1,5 @@
 # TP2
-* Le projet contient le fichier index.html. Le but du tp
+* Le dépôt contient le fichier index.html. Le but du tp
 est de proposer une feuille de style pour la présentation de la
 barre de navigation.
 
